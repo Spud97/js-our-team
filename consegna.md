@@ -18,4 +18,4 @@ stilizziamo la sezione realizzando le card di ciascun membro del team, come nel 
 - Creo un array con i dati di ogni membro del team
 - Creo un ciclo per stampare uno alla volta i dati di ognuno
 - Faccio una Function "createCard"
-- Stapo ogni card in html con il template literal
+- Stampo ogni card in html con il template literal
